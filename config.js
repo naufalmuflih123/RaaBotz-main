@@ -35,13 +35,13 @@ global.APIKeys = { // APIKey Here
 }
 
 global.linkyt = 'https://youtu.be/RlhkqeUDZrA'
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝐂𝐥𝐚𝐫𝐚𝐚'
-global.linkgc = 'https://chat.whatsapp.com/Gapunya'
-global.linkig = 'https://www.instagram.com/inizenscuy'
+global.WM = 'My-Bot Multi Device By Naufal Muflih'
+global.linkgc = 'https://chat.whatsapp.com/'
+global.linkig = 'https://www.instagram.com/nauffhdky/'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg'
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@inizenscuy'
+global.bodlink = '@nauffhdky'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
@@ -52,7 +52,7 @@ global.urlnya = global.linkgc
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+62 896-0112-4991'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
