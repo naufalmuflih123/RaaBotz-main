@@ -14,7 +14,7 @@ key: {
 						"jpegThumbnail": await (await fetch('https://telegra.ph/file/dd124552c49cb0a55bb83.jpg')).buffer(), //Gambarnye
 					},
 					"title": `Hai ${conn.getName(m.sender)}`, //Kasih namalu 
-					"description": `Raa - BOTZ MADE BY CLARAAA ❤️`, 
+					"description": `Wa - BOTZ MADE BY Naufal Muflih ❤️`, 
 					"currencyCode": "Rp",
 					"priceAmount1000": "500000",
 					"retailerId": `ppk`,
